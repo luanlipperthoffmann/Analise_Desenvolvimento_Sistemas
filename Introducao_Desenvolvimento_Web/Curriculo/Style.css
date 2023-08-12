@@ -7,52 +7,64 @@
 header{
     text-align: center;
     padding-top: 10px;
-    padding-bottom: 7%;
+    padding-bottom: 100px;
     background-color: rgb(224, 224, 224);
-}
-.titulo{
-    text-align: center;
-    display: inline-block;
-    width: 60%;
-}
-
-.divFoto{
-    display: inline-block;
-    padding-left: 300px;
-    width: 20%;
-}
+    padding-bottom: 160px;
+}   
 
 .foto{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-right: 15%;
 }
 
 .endereco{
-    text-align: left;
-    padding-top: 30px;
-    padding-left: 20px;
-    float: left;
-    font-size: larger;
+    font-size:large;
     font-weight: bolder;
     font-style: italic;
-    width: 20%;
-    display: inline-block;
+    float: left;
+    margin-left: 15%;
+    padding-top: 40px;
+    text-align: left;
+}
+
+body{
+    background-color:lightgray;
+}
+
+h2{
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
+
+li{
+   
+    margin-block: 7px;
 }
 
 .coluna_direita{
-    background-color: aliceblue;
     width: 60%;
     float: left;
-    display: inline-block;
-    padding-top: 5px;
+    padding-left: 10%;
+    padding-top: 2%;
 }
 
 .coluna_esquerda{
-    background-color: bisque;
     width: 40%;
     float: right;
-    display: inline-block;
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+hr{
+    color: blueviolet;
+}
+
+.coluna_central{
+    text-align: center;
+    
 }
 
 .rodape{
@@ -62,4 +74,51 @@ header{
     bottom: 0%;
     width: 100%;
     padding: 15px;
+}
+
+.botoes {
+    outline: 0 none;
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    margin-right: 10px; 
+    color: black;
+    font-size: 1.5em;
+    text-align:left;
+    text-decoration: none;
+    border: 0 none;
+}
+
+button{
+    border-radius: 50%;
+    width: 150px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.facebook{
+    background-color: rgb(59, 89, 152);
+    color: white;
+    font-weight: bold;
+}
+
+.wattsapp{
+    background-color: rgb(37, 211, 102);
+    color: black;
+    font-weight: bold;
+}
+  
+.github{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.linkedin{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
 }
