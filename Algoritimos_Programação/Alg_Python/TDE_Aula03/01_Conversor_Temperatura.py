@@ -5,12 +5,6 @@ fahrenheit= (temperatura*9)/5 + 32
 print(f"A temperatura em Fahrenheit é de : {fahrenheit}")
 
 
-#6. Percentual de Desconto
-#   Peça ao usuário o preço original de um produto e um desconto em porcentagem. Calcule o valor com desconto usando ValorComDesconto = ValorOriginal - (ValorOriginal * Desconto / 100). Mostre o valor após o desconto.
-
-#7. Calculadora de Gorjeta
-#   Solicite ao usuário o valor de uma refeição. Calcule uma gorjeta de 10% com Gorjeta = Valor * 0.1. Mostre tanto a gorjeta quanto o valor total.
-
 #8. Conversor de Unidades de Medida
 #   Peça ao usuário uma distância em metros. Converta essa distância para centímetros e milímetros. Apresente ambos os valores convertidos.
 
