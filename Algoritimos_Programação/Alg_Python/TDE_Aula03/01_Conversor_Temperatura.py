@@ -5,15 +5,6 @@ fahrenheit= (temperatura*9)/5 + 32
 print(f"A temperatura em Fahrenheit é de : {fahrenheit}")
 
 
-#3. Volume de um Cilindro
-#   Solicite ao usuário o raio e a altura de um cilindro. Calcule o volume usando Volume = π r^2 h. Apresente o volume calculado.
-
-#4. Média de Notas
-#   Peça ao usuário quatro notas. Determine a média usando Média = (n1 + n2 + n3 + n4) / 4 e mostre a média obtida.
-
-#5. Conversor de Moeda
-#   Solicite ao usuário um valor em dólares. Converta este valor para reais considerando uma taxa de câmbio fixa. Mostre o valor convertido.
-
 #6. Percentual de Desconto
 #   Peça ao usuário o preço original de um produto e um desconto em porcentagem. Calcule o valor com desconto usando ValorComDesconto = ValorOriginal - (ValorOriginal * Desconto / 100). Mostre o valor após o desconto.
 
