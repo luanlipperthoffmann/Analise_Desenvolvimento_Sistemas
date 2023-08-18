@@ -4,19 +4,6 @@ temperatura= float (input("Dígite a temperatura em celcius:"))
 fahrenheit= (temperatura*9)/5 + 32
 print(f"A temperatura em Fahrenheit é de : {fahrenheit}")
 
-
-#8. Conversor de Unidades de Medida
-#   Peça ao usuário uma distância em metros. Converta essa distância para centímetros e milímetros. Apresente ambos os valores convertidos.
-
-# 9. Tempo de Viagem
-#   Solicite ao usuário a distância de uma viagem em km e a velocidade média esperada em km/h. Calcule o tempo da viagem como Tempo = Distância / Velocidade. #Mostre o tempo previsto.
-
-#10. Consumo de Combustível
-#   Solicite ao usuário a distância percorrida e a quantidade de combustível usado. Calcule o consumo médio usando Consumo = Distância / Combustível. Mostre o consumo em km/l.
-
-#11. Divisão e Resto
-#   Solicite dois números ao usuário. Calcule o resultado da divisão e o resto. Apresente ambos os valores.
-
 #12. Peso Ideal
 #   Solicite a altura do usuário. Calcule o peso ideal como PesoIdeal = altura * 22. Mostre o peso ideal calculado.
 
