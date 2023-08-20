@@ -42,6 +42,8 @@ body{
 h2{
     padding-bottom: 20px;
     text-decoration: underline;
+    font-size: 30px;
+    color: darkblue;
 }
 
 li{
@@ -68,13 +70,10 @@ li{
 }
 
 .botoes{
-    width: 80px;
-    animation: linear infinite;
-    animation-duration: 5s;
+    width: 100px;
     border-radius: 50%;
-}
-button{
-    border-radius: 50%;
+    margin: 20px;
+    border-style: outset;
 }
 
 .rodape{
