@@ -27,3 +27,5 @@
     # type_ = "Planta/Veneno" (Váriavel tipo Str)
     # print(f"{pokemon} é do tipo {type_}.")
 
+#Para definir duas casas apos a virgural usamos {Variavel:.2f}
+   #  print(f"O valor dos juros é de R${valor_juros:.2f}")
