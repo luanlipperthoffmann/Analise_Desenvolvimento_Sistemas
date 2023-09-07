@@ -135,9 +135,11 @@ body{
     padding-left: 20px;
 }
 
-.object p{
-    padding-right: 20px;
+.object ul, .object li{
+    padding-right: 10px;
+    padding-top: 10px;
     width: 100%;
+    text-align: justify;
 }
 
 .educ{
