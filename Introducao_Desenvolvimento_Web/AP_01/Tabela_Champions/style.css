@@ -29,12 +29,17 @@ body{
 
 .grupos, .gols{
     background-color: white;
-    width: 60%;
+    width: 50%;
 }
 
-.grupos h2{
+.grupos h2, .gols h2{
     padding: 20px 5px;
     font-weight: bold;
+    font-size: 20px;
+}
+
+.resultado img{
+    max-width: 18px;
 }
 
 th{
@@ -74,4 +79,8 @@ td{
 hr{
     background-color: #162E58;
     height: 20px;
+}
+
+.gols{
+    width: 30%;
 }

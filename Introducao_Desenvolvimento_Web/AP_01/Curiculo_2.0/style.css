@@ -5,9 +5,9 @@
     font-family: Arial;
 }
 
-.clear{
-    clear:both;
-}
+    .clear{
+        clear:both;
+    }
 
 body{
     background-color: gray;
@@ -23,14 +23,23 @@ body{
 }
 
 .header{
-    background-color: black;
+    background-color: rgb(88, 152, 88);
     color: white;
-    height: 80px;
+    height: 100px;
     font-size: 20px;
     text-align: center;
-    padding: 10px 50px;
+    padding: 10px 10px;
+    margin: auto;
     border-radius: 20px 20px 0 0;
 }
+
+.header img{
+    max-width: 40px;
+    max-height: 40px;
+    border-radius: 50%;
+}
+
+
 
 .header span, a{
     display: inline-block;
@@ -42,6 +51,7 @@ body{
 .perfil{
     height: 200px;
     border-bottom: 5px solid;
+    border-top: 5px solid;
     border-color: silver;
 }
 
@@ -52,6 +62,18 @@ body{
     width: 70%;
     height: 100%;
     text-align: right;
+    background-color: rgb(149, 188, 124);
+}
+
+.dados h1{
+    color: blue;
+}
+
+.dados p{
+    font-style: italic;
+    font-size: 12px;
+    font-weight: bold;
+    color: red;
 }
 
 .foto{
@@ -142,18 +164,30 @@ body{
     text-align: justify;
 }
 
+.object ul{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
 .educ{
     border-top: 5px solid;
-    padding: 10px;
+    padding: 20px;
     border-color: silver;
 }
 
 .educ h2{
     text-decoration: underline;
+    text-align: center;
 }
 
 .educ h3{
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.educ p{
     margin-top: 10px;
+    margin-left: 170px;
 }
 
 .educ h3, .educ p{
