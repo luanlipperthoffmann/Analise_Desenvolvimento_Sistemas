@@ -9,10 +9,11 @@ ponto de congelamento".
 * Próximo ao ponto de congelamento: Entre 0°C e 5°C
 * Abaixo do ponto de congelamento: Menos de 0°C'''
 
-celsius = int(input("Informe a temperatura em graus celsius: \n"))
+celsius = float(input("Informe a temperatura em graus celsius: \n"))
 if celsius > 5:
     print(f"A temperatura de {celsius}º celsius é segura")
 elif celsius <= 5 and celsius >=0:
     print(f"A temperatura de {celsius}º celsius está proxima ao ponto de congelamento")
 else:
     print(f"A temperatura de {celsius}º celsius está abaixo do ponto de congelamento")
+    
