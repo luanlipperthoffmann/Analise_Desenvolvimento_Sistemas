@@ -14,6 +14,9 @@ body{
 .header{
     background-color: #162E58;
     color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
 }
 
 .header h1{
@@ -27,9 +30,10 @@ body{
     font-size: 12px;
 }
 
-.grupos, .gols{
+.grupos{
     background-color: white;
     width: 50%;
+    margin-top: 190px;  
 }
 
 .grupos h2, .gols h2{
@@ -71,16 +75,18 @@ td{
     width: 24px;
 }
 
+.gols{
+    background-color: white;
+    width: 50%;
+    margin-top: 50px;
+}
+
 .gols img{
     width: 36px;
     border-radius: 50%;
 }
 
 hr{
-    background-color: #162E58;
+    background-color: rgb(95, 186, 217);
     height: 20px;
-}
-
-.gols{
-    width: 30%;
 }
