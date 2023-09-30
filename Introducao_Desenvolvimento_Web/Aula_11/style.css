@@ -1,0 +1,31 @@
+.container{
+    background-color: black;
+    display: flex;
+    height: 100vh;
+    padding: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blue;border: 1px solid;
+    font-size: 48px;
+    color: white;
+}
+
+/* Ponto de quebra para tablet */
+@media screen and (max-width:768px)  {
+    body{
+        background-color: black;
+    }
+}
+
+
+/* Ponto de quebra para SmartPhone */
+@media screen and (max-width:578px)  {
+    body{
+        background-color: green;
+    }
+}
