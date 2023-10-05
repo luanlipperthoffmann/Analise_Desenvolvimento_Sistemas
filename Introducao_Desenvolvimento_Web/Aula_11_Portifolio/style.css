@@ -4,100 +4,127 @@
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-
 header{
     background-color: #333;
+    color: white;
     display: flex;
     justify-content: space-between;
     padding: 20px;
     align-items: center;
 }
-
 nav ul{
     display: flex;
     list-style: none;
 }
-
 nav a{
     color: white;
     text-decoration: none;
     padding: 10px;
 }
-
-main{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    background-color: black;
-    align-items: center;
-}
-
 .about img{
     width: 300px;
     border-radius: 10px;
 }
-
 .about{
     display: flex;
     align-items: center;
+    justify-content: center;
     margin: 30px 0;
     padding: 20px;
 }
-
 section{
-    max-width: 800px;
-}
+    max-width: 1000px;
+    /* border: 1px solid; */
 
+}
 .text{
     padding: 20px;
-    
 }
-
+main{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+}
 .text h2{
     text-align: center;
     margin-bottom: 20px;
 }
-
 .text p{
+    display: flex;
+    align-items: center;
     text-align: justify;
 }
-
 .projects{
-    display: flex;    
+    display: flex;
+    /* justify-content: space-around; */
 }
-
 .proj img{
     width: 280px;
     height: 152px;
 }
-
 .proj{
     padding: 20px;
-    text-align: justify;
 }
-
-/* Responsividade Tablet */
-@media screen and (max-width: 768px) {
+input, button, textarea{
+    color: black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.contact{
+    width: 100%;
+}
+.contact h2{
+    text-align: center;
+    margin: 20px 0;
+}
+label, input, textarea{
+    margin-bottom: 10px;
+}
+input, button{
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    margin-bottom: 20px;
+}
+footer{
+    background-color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+footer ul{
+    display: flex;
+    list-style: none;
+}
+i{
+    padding: 10px;
+}
+i:hover{
+    color: #333;
+    background-color: white;
+}
+@media screen and (max-width:768px) {
     header{
         flex-direction: column;
     }
-
     header nav{
         margin-top: 20px;
     }
-}
-
-/* Responsividade SmartPhone */
-@media screen and (max-width: 576px) {
-    header{
+    .about, .projects{
+        display: flex;
+        align-items: center;
         flex-direction: column;
     }
-
-    header nav{
-        margin-top: 20px;
-    }
-
-    footer{
-        flex-direction: column;
+    .proj, img, p{
+        align-items: center;
+        max-width: 310px;
+        text-align: justify;
     }
 }
