@@ -122,7 +122,25 @@ i:hover{
         align-items: center;
         flex-direction: column;
     }
-    .proj, img, p{
+    .proj, img, p, .contact{
+        align-items: center;
+        max-width: 310px;
+        text-align: justify;
+    }
+}
+@media screen and (max-width:576px) {
+    *{
+        font-size: 0.9rem;
+    }
+    header h1{
+        padding-left: 35px;
+    }
+    .about, .projects, footer{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .proj, img, p, .contact{
         align-items: center;
         max-width: 310px;
         text-align: justify;
