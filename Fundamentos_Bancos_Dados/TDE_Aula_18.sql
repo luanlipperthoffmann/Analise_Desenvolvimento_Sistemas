@@ -20,11 +20,34 @@ CREATE TABLE Disciplinas
 (
     Id_Disc int NOT NULL PRIMARY KEY,
     Disciplina varchar(50),
-    Carga_Horaria int,
+    Carga_Horaria int
+);
+
+CREATE TABLE Software
+(
+    Id int NOT NULL PRIMARY KEY,
+    Nome varchar (100),
+    Tipo varchar (50)
 );
 
 CREATE TABLE Leciona
 (
-    Id NOT NULL PRIMARY kEY,
-
+    Id_Leciona int NOT NULL PRIMARY KEY,
+    Id_Professores int NOT NULL,
+    Id_Disc int NOT NULL,
+        Constraint Professor_leciona_Disciplina
+            FOREIGN KEY (Id_Professores) references Professores (Id),
+        Constraint Disciplina_lecionada_Professor
+            FOREIGN KEY (Id_Disc) references Disciplinas (Id_Disc)
 );
+
+    CREATE TABLE Utiliza
+    (
+        Id_Utiliza int NOT NULL PRIMARY KEY,
+        Id_Disc int NOT NULL,
+        Id_Softwares int NOT NULL,
+            Constraint Disciplina_utiliza_Software
+                FOREIGN KEY (Id_Disc) references Disciplinas (Id_Disc),
+            Constraint Software_utilizado_Disciplina
+                FOREIGN KEY (Id_Softwares) references Software (Id)
+    );
