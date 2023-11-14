@@ -56,7 +56,7 @@ add CONSTRAINT Nova_fk FOREIGN KEY (id_cliente) REFERENCES Clientes(id)
 
 
 ========
---Inserção em tabela
+--Inserção Tupla na tabela
 
 
 CREATE TABLE Produtos
@@ -102,3 +102,24 @@ CREATE TABLE Pedidos
     Constraint Produtos_tem_Fornecedores
         Foreign Key (Prod_Cod)references Produtos(Codigo)
 );
+
+
+--Populando as tabelas
+INSERT INTo Categorias (Codigo, Nome)
+VALUES(123, 'frutas')
+
+INSERT INTO Produtos (Codigo, Descricao, Data_Cadastro, Valor_Unitario, Cod_Cat)
+values(123, 'banana', '2023/11/13', 12300, 123)
+
+INSERT INTO Fornecedores(Codigo, Nome)
+VALUES (123, 'Aaaaaaa')
+
+--INSERINDO UMA TUPLA NA TABELA
+
+INSERT INTO Pedidos (Quantidade, valor_unitario, DATA, cod_fornec, prod_cod) 
+VALUES(10, 10, '2023/11/13', 123, 123)
+
+--O select mostra os itens add na tabelas
+SELECT Codigo, Nome FROM Categorias
+
+SELECT *FROM Produtos
