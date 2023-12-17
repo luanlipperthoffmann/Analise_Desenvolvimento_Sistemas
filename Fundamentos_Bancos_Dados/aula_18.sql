@@ -15,6 +15,8 @@
     Enderecos(Id int Not Null pk, Rua varchar(100), Numero int, Bairro varchar(50), Cidade varchar(50), Estado char(2), Id_Clientes int Not Null references Clientes(Id));
 */
 
+
+
 CREATE TABLE Clientes
 (
     Id int Not Null Primary Key,
@@ -122,4 +124,3 @@ VALUES(10, 10, '2023/11/13', 123, 123)
 --O select mostra os itens add na tabelas
 SELECT Codigo, Nome FROM Categorias
 
-SELECT *FROM Produtos
