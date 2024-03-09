@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/bin/Debug/net8.0/AulaUm
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/bin/Debug/net8.0/AulaUm.deps.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/bin/Debug/net8.0/AulaUm.runtimeconfig.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/bin/Debug/net8.0/AulaUm.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/bin/Debug/net8.0/AulaUm.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.AssemblyInfo.cs
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.sourcelink.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/refint/AulaUm.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/AulaUm.genruntimeconfig.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/Debug/net8.0/ref/AulaUm.dll
