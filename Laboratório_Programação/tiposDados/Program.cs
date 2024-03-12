@@ -96,12 +96,14 @@ char letra2 = '\u0041'; // tipo unicode
     Console.WriteLine(letra);
 */
 
-int? x = null;
-if (x.HasValue){
-    Console.WriteLine(x);
-}else {
-    Console.WriteLine("X não possui um valor!");
-}
+/*
+    int? x = null;
+    if (x.HasValue){
+        Console.WriteLine(x);
+    }else {
+        Console.WriteLine("X não possui um valor!");
+    }
+*/
 
-
-
+//Variaveis de tipos são do tipo camelCase  ex.:notaAluno
+//Metodos e classes são do tipo PascalCase ex.:NotaAluno
