@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/bin/Debug/net8.0/tiposDados
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/bin/Debug/net8.0/tiposDados.deps.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/bin/Debug/net8.0/tiposDados.runtimeconfig.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/bin/Debug/net8.0/tiposDados.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/bin/Debug/net8.0/tiposDados.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.AssemblyInfo.cs
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.sourcelink.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/refint/tiposDados.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/tiposDados.genruntimeconfig.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/Debug/net8.0/ref/tiposDados.dll
