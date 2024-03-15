@@ -10,7 +10,7 @@
     Console.WriteLine(valor03);     //Inteiro assinado de 32 bits
     Console.WriteLine(valor04);     //Inteiro de 32 bits sem sinal
 */
-
+z
 //Declarando variaveis de ponto flutuante
 /*
     double n1 = 1.234;      //Double usado para calculos cientificos
