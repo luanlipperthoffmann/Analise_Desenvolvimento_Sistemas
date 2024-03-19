@@ -1,5 +1,5 @@
 ﻿//1.Crie uma variável chamada idade e atribua a ela o valor 35 e exiba o seu valor.
-byte idade = 33;
+byte idade = 35;
 Console.WriteLine(idade);
 
 //2.Crie uma variável chamada nome e atribua o valor "Maria" e exiba o seu valor.
@@ -11,25 +11,20 @@ double altura = 3.45;
 Console.WriteLine(altura + " Mts");
 
 //4.Crie uma constante chamada ano e atribua a ela o valor 12 e exiba o seu valor
-uint ano = 12;
+const int ano = 12;
 Console.WriteLine(ano);
 
 //5.Declare uma variável nota do tipo double como sendo do tipo Nullable type e atribua o valor 7.80 e exiba o seu valor
-double? nota = null;
-nota = 7.80;
-if (nota.HasValue){
-    Console.WriteLine(nota);
-}else{
-    Console.WriteLine("Nota não possui um valor!");
-}
+double? nota = 7.80;
+Console.WriteLine(nota);
 
 //6.Quais as diferenças entre os tipos por valor e os tipos por referência ?
 /*
     TIPOS POR VALOR:
-    Nos tipos por valor as variáveis cada variável tem a própria copia dos dados e as operções de uma variável não pode afetar a outra.
+    Nos tipos por valor as variáveis cada variável tem a própria copia dos dados e as operções de uma variável não pode afetar a outra. São armezanados na memoria stack
 
     TIPOS POR REFERENCIA:
-    Já nos tipos de refÊncia, duas variáveis podem fazer referência ao mesmo objeto, o useja, a operação realizada numa varável pode afetar o objeto referenciado em outra variável
+    Já nos tipos de refÊncia, duas variáveis podem fazer referência ao mesmo objeto, o useja, a operação realizada numa varável pode afetar o objeto referenciado em outra variável. São armazeandops na memoria rip.
 */
 
 //7.O que é um nullable type e qual a sua utilidade ?
@@ -44,7 +39,7 @@ if (nota.HasValue){
 
 //9.O que é Pascal Case ? Dê um exemplo de sua aplicação
 /*
-    O pascal case é um outro tipo de nomenclatura muito utilizados também como fomra de organização de um codigo garantido assim a legibilidade do mesmo. O Pascal Case é geralmente utilizado para nomear classes, interfaces, enums e métodos públicos, neste tipo de nomencaltura utilizamos como forma de escrita a primeira detra de cada nome em letra maiuscula e as demais em letra minuscula. por ex.: CarroSedan, HomensCarecas, CarroBranco
+    O pascal case é um outro tipo de nomenclatura muito utilizados também como fomra de organização de um codigo garantido assim a legibilidade do mesmo. O Pascal Case é geralmente utilizado para nomear classes, interfaces, enums e métodos públicos, neste tipo de nomencaltura utilizamos como forma de escrita a primeira letra de cada nome em letra maiuscula e as demais em letra minuscula. por ex.: CarroSedan, HomensCarecas, CarroBranco
 */
 
 //10.Declare duas variáveis x e y como sendo do tipo int e atribua a ela os valores 77 e 66 e a seguir imprima o valor da soma de x com y. (Use o operador aritmético + para realizar a operação de soma). 
