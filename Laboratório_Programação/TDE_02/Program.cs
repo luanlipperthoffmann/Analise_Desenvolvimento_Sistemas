@@ -1,19 +1,25 @@
 ﻿/*
     Declare as variáveis nome, idade e nota atribuindo os valores “Paulo”, 17 e 7.5 e exiba a saída no formato : Aluno tem anos e nota usando a concatenação e a interpolação de strings.
+
+
+
+    string nome = "Paulo";
+    int idade = 17;
+    double nota = 7.5;
+    //Concatenação de string:
+    System.Console.WriteLine( nome + " tem " + idade + " anos e nota " + nota);
+    //Interpolação de string:
+    System.Console.WriteLine($"{nome} tem {idade} anos e nota {nota}");
 */
-string nome = "Paulo";
-int idade = 17;
-double nota = 7.5;
-//Concatenação de string:
-System.Console.WriteLine( nome + " tem " + idade + " anos e nota " + nota);
-//Interpolação de string:
-System.Console.WriteLine($"{nome} tem {idade} anos e nota {nota}");
+
 
 
 /*
     Para o exercício anterior exiba o nome a idade e a nota em linhas separadas usando as sequências de escapes.
+
+
+    System.Console.WriteLine($"{nome} tem \n{idade} anos e \nnota {nota}");   
 */
-System.Console.WriteLine($"{nome} tem \n{idade} anos e \nnota {nota}");   
 
 
 /*
@@ -39,15 +45,17 @@ System.Console.WriteLine($"{nome} tem \n{idade} anos e \nnota {nota}");
 /*
     Escreva um programa que recebe 3 letras via teclado e as exiba na ordem reversa usando
     a concatenação e também a interpolação de strings
+
+
+    System.Console.WriteLine("Dígite a primeira letra:");
+    string letraUm = Console.ReadLine();
+    System.Console.WriteLine("Dígite a segunda letra:");
+    string letraDois = Console.ReadLine();
+    System.Console.WriteLine("Dígite a terceira letra:");
+    string letraTres = Console.ReadLine();
+    System.Console.WriteLine(letraTres + letraDois + letraUm);
+    System.Console.WriteLine($"{letraTres} {letraDois} {letraUm}");
 */
-System.Console.WriteLine("Dígite a primeira letra:");
-string letraUm = Console.ReadLine();
-System.Console.WriteLine("Dígite a segunda letra:");
-string letraDois = Console.ReadLine();
-System.Console.WriteLine("Dígite a terceira letra:");
-string letraTres = Console.ReadLine();
-System.Console.WriteLine(letraTres + letraDois + letraUm);
-System.Console.WriteLine($"{letraTres} {letraDois} {letraUm}");
 
 
 /*
@@ -68,16 +76,48 @@ System.Console.WriteLine($"{letraTres} {letraDois} {letraUm}");
     Escreva um programa para receber dois valores via teclado do tipo double e a seguir
     realize as operações de soma, subtração, multiplicação, exponenciação, divisão e módulo
     exibindo o resultado:
+
+
+    System.Console.WriteLine("Dígite o primeiro valor: ");
+    double valorUm = Convert.ToDouble(Console.ReadLine());
+    System.Console.WriteLine("Dígite o segundo valor: ");
+    double valorDois = Convert.ToDouble(Console.ReadLine());
+    System.Console.WriteLine($"Soma do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm+valorDois} ");
+    System.Console.WriteLine($"Subtração do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm-valorDois} ");
+    System.Console.WriteLine($"Multiplicao do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm*valorDois} ");
+    System.Console.WriteLine($"Exponenciação do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {Math.Pow(valorUm, valorDois)} ");
+    System.Console.WriteLine($"Divisão do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm/valorDois} ");
+    Console.ReadKey();
 */ 
+
+
 
 /*
     Escreva um programa que receba um nome e uma senha via teclado. Nome é uma string e
     Senha é um inteiro. Se o nome for igual a ‘admin’ ou ‘maria’ e a senha for igual a ‘123’
     então exiba a mensagem ‘Login feito com sucesso’ caso contrário exiba a mensagem ‘Login
     inválido’: (use o operador condicional ternário)
+
+
+    System.Console.WriteLine("Dígite o nome de usúario: ");
+    string nome = Convert.ToString(Console.ReadLine());
+    System.Console.WriteLine("Dígite a senha: ");
+    int senha = Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine( nome == "admin" || nome == "maria" && senha == 123 ?  "Login feito com sucesso" : "Login Inválido");
+    Console.ReadKey();
 */
+
 
 /*
     Escreva um programa que recebe via teclado dois números inteiros x e y e imprima no
     console se x é par ou não e se y é par ou não. Use o operador condicional ternário (? :)
+
+
+    System.Console.WriteLine("Dígite um número x: ");
+    int x = Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine("Dígite um número y: ");
+    int y = Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine(x%2==0 ? "X é Par" : "X é Impar");
+    System.Console.WriteLine(y%2==0 ? "Y é Par" : "Y é Impar");
+    Console.ReadKey();
 */
