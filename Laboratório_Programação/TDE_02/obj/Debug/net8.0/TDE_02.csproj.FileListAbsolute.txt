@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/bin/Debug/net8.0/TDE_02
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/bin/Debug/net8.0/TDE_02.deps.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/bin/Debug/net8.0/TDE_02.runtimeconfig.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/bin/Debug/net8.0/TDE_02.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/bin/Debug/net8.0/TDE_02.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.AssemblyInfo.cs
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.sourcelink.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/refint/TDE_02.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/TDE_02.genruntimeconfig.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/TDE_02/obj/Debug/net8.0/ref/TDE_02.dll
