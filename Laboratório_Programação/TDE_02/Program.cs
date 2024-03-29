@@ -24,8 +24,8 @@
 
 /*
     Para qual tipo de dados você pode converter um float implicitamente ?
-    (x) int
-    ( ) double
+    ( ) int
+    (x) double
     ( ) long
     ( ) decimal
 */
@@ -47,14 +47,15 @@
     a concatenação e também a interpolação de strings
 
 
-    System.Console.WriteLine("Dígite a primeira letra:");
-    string letraUm = Console.ReadLine();
-    System.Console.WriteLine("Dígite a segunda letra:");
-    string letraDois = Console.ReadLine();
-    System.Console.WriteLine("Dígite a terceira letra:");
-    string letraTres = Console.ReadLine();
-    System.Console.WriteLine(letraTres + letraDois + letraUm);
-    System.Console.WriteLine($"{letraTres} {letraDois} {letraUm}");
+    char letra1, letra2, letra3;
+    System.Console.WriteLine("Dígite a primeira letra: ");
+    letra1 = Convert.ToChar(Console.ReadLine());
+    System.Console.WriteLine("Dígite a segunda letra: ");
+    letra2 = Convert.ToChar(Console.ReadLine());
+    System.Console.WriteLine("Dígite a terceira letra: ");
+    letra3 = Convert.ToChar(Console.ReadLine());
+    System.Console.WriteLine(letra3 ""+ ""letra2 ""+ ""letra1);
+    System.Console.WriteLine($"{letra3} {letra2} {letra1}");
 */
 
 
@@ -87,6 +88,7 @@
     System.Console.WriteLine($"Multiplicao do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm*valorDois} ");
     System.Console.WriteLine($"Exponenciação do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {Math.Pow(valorUm, valorDois)} ");
     System.Console.WriteLine($"Divisão do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm/valorDois} ");
+    System.Console.WriteLine($"O modulo do Valor Um: {valorUm} + Valor Dois {valorDois} é de: {valorUm%valorDois} ");
     Console.ReadKey();
 */ 
 
@@ -121,3 +123,10 @@
     System.Console.WriteLine(y%2==0 ? "Y é Par" : "Y é Impar");
     Console.ReadKey();
 */
+ System.Console.WriteLine("Dígite um número x: ");
+    int x = Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine("Dígite um número y: ");
+    int y = Convert.ToInt32(Console.ReadLine());
+    System.Console.WriteLine(x%2==0 ? "X é Par" : "X é Impar");
+    System.Console.WriteLine(y%2==0 ? "Y é Par" : "Y é Impar");
+    Console.ReadKey();
