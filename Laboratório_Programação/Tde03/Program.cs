@@ -54,7 +54,7 @@ recebido via teclado
 - Para sair do loop defina uma condição de saída 
 Dica: Use os loop while e for e para sair a instrução break;
 */
-char continue;
+char continue; //dando erro na conversao, verificar com o prof
 System.Console.WriteLine("Deseja realizar uma multiplicação?");
 continue = Convert.ToChar(Console.ReadLine().ToUpper());
 
