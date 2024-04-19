@@ -1,0 +1,15 @@
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.AssemblyInfoInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.AssemblyInfo.cs
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.csproj.CoreCompileInputs.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.sourcelink.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/bin/Debug/net8.0/Classes_Objetos
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/bin/Debug/net8.0/Classes_Objetos.deps.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/bin/Debug/net8.0/Classes_Objetos.runtimeconfig.json
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/bin/Debug/net8.0/Classes_Objetos.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/bin/Debug/net8.0/Classes_Objetos.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/refint/Classes_Objetos.dll
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.pdb
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/Classes_Objetos.genruntimeconfig.cache
+/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos/obj/Debug/net8.0/ref/Classes_Objetos.dll
