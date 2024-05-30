@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\bin\Debug\net8.0\heranca.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\bin\Debug\net8.0\heranca.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\bin\Debug\net8.0\heranca.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\bin\Debug\net8.0\heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\bin\Debug\net8.0\heranca.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\refint\heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\heranca.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\heranca\obj\Debug\net8.0\ref\heranca.dll

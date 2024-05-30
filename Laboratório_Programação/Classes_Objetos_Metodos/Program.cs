@@ -19,6 +19,7 @@
     System.Console.WriteLine($"Nome: {p2.nome}, Idade: {p2.idade}, Sexo: {p2.sexo}");
 */
 
+/*
 internal class Program
 {
     private static void Main(string[] args)
@@ -32,3 +33,18 @@ internal class Program
         System.Console.WriteLine(x);;
     }
 }
+*/
+
+/*
+Calculadora calculo = new Calculadora(1.5, 2.5);
+calculo.Somar(1,2);
+calculo.Somar(1,2,3);
+calculo.Divisao(1.5, 2.5);
+var resultado = calculo.Divisao()
+Console.WriteLine(resultado);
+var resultado2 = calculo.Divisao();
+Console.WriteLine(resultado2);
+*/
+
+aluno azul = new Aluno("luan", 33);
+aluno dois = new Aluno();

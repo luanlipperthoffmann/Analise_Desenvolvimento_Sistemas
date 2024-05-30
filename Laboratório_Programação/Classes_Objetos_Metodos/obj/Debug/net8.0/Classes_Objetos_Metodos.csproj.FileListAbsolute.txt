@@ -13,3 +13,11 @@
 /home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos_Metodos/obj/Debug/net8.0/Classes_Objetos_Metodos.pdb
 /home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos_Metodos/obj/Debug/net8.0/Classes_Objetos_Metodos.genruntimeconfig.cache
 /home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/Classes_Objetos_Metodos/obj/Debug/net8.0/ref/Classes_Objetos_Metodos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\refint\Classes_Objetos_Metodos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Classes_Objetos_Metodos\obj\Debug\net8.0\Classes_Objetos_Metodos.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/AulaUm.csproj": {}
+    "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\AulaUm\\AulaUm.csproj": {}
   },
   "projects": {
-    "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/AulaUm.csproj": {
+    "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\AulaUm\\AulaUm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/AulaUm.csproj",
+        "projectUniqueName": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\AulaUm\\AulaUm.csproj",
         "projectName": "AulaUm",
-        "projectPath": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/AulaUm.csproj",
-        "packagesPath": "/home/luan/.nuget/packages/",
-        "outputPath": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/AulaUm/obj/",
+        "projectPath": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\AulaUm\\AulaUm.csproj",
+        "packagesPath": "C:\\Users\\luanl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\AulaUm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/luan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\luanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

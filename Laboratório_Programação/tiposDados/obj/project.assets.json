@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/luan/.nuget/packages/": {}
+    "C:\\Users\\luanl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/tiposDados.csproj",
+      "projectUniqueName": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\tiposDados\\tiposDados.csproj",
       "projectName": "tiposDados",
-      "projectPath": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/tiposDados.csproj",
-      "packagesPath": "/home/luan/.nuget/packages/",
-      "outputPath": "/home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/obj/",
+      "projectPath": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\tiposDados\\tiposDados.csproj",
+      "packagesPath": "C:\\Users\\luanl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luanl\\Git\\Analise_Desenvolvimento_Sistemas\\Laboratório_Programação\\tiposDados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/luan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\luanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

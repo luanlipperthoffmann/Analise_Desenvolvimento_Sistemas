@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tiposDados
-build_property.ProjectDir = /home/luan/Documentos/Git/Analise_Desenvolvimento_Sistemas/Laboratório_Programação/tiposDados/
+build_property.ProjectDir = C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tiposDados\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

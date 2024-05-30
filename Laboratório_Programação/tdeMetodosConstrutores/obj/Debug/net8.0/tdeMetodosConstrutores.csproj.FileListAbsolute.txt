@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\bin\Debug\net8.0\tdeMetodosConstrutores.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\bin\Debug\net8.0\tdeMetodosConstrutores.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\bin\Debug\net8.0\tdeMetodosConstrutores.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\bin\Debug\net8.0\tdeMetodosConstrutores.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\bin\Debug\net8.0\tdeMetodosConstrutores.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\refint\tdeMetodosConstrutores.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\tdeMetodosConstrutores.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\tdeMetodosConstrutores\obj\Debug\net8.0\ref\tdeMetodosConstrutores.dll
