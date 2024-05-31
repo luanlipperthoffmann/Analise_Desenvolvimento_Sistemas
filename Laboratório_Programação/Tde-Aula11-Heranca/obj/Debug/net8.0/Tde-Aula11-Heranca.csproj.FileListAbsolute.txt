@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\bin\Debug\net8.0\Tde-Aula11-Heranca.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\bin\Debug\net8.0\Tde-Aula11-Heranca.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\bin\Debug\net8.0\Tde-Aula11-Heranca.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\bin\Debug\net8.0\Tde-Aula11-Heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\bin\Debug\net8.0\Tde-Aula11-Heranca.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\refint\Tde-Aula11-Heranca.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\Tde-Aula11-Heranca.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Tde-Aula11-Heranca\obj\Debug\net8.0\ref\Tde-Aula11-Heranca.dll
