@@ -105,5 +105,5 @@ char letra2 = '\u0041'; // tipo unicode
     }
 */
 
-//Variaveis de tipos são do tipo camelCase  ex.:notaAluno
+//Variaveis de tipos são do tipo camelCase  ex.:notaAluno.
 //Metodos e classes são do tipo PascalCase ex.:NotaAluno
