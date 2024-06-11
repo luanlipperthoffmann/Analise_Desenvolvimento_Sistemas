@@ -3,27 +3,17 @@ using System.Security.Cryptography.X509Certificates;
 
 public class Veiculo
 {
-    public string Marca;
+    public string? Marca;
     public int Ano;
-
-    public Veiculo(string marca, int ano)
-    {
-        Marca = marca;
-        Ano = ano;
-    }
 }
 
 public class Carro : Veiculo
 {
-    public string Modelo;
+    public string? Modelo;
 
-    public Carro(string marca, int ano, string modelo) : base(marca, ano) {
-        Modelo = modelo;
-    }
-
-    public void ExibirDetalhes()
+    public void ExibirDetalhes(string Marca, int Ano, string Modelo)
     {
-        System.Console.WriteLine($"Marca: {Marca}, Ano: {Ano}, Modelo: {Modelo}");
+        System.Console.WriteLine($"Marca: { Marca}, Ano: {Ano}, Modelo: {Modelo}");
     }
 }
 

@@ -4,8 +4,8 @@ Crie uma classe base Veiculo com as propriedades Marca e Ano. Crie uma classe de
 */
 System.Console.WriteLine("\nEXERCÍCIO 01:"); //este CW serve só pra diferenciar os  prints por ordem de exercício
 
-Carro carro = new Carro("Citroen", 2011, "C4");
-carro.ExibirDetalhes();
+Carro carro = new Carro()   ;
+carro.ExibirDetalhes("Ford", 2024, "Ecosport");
 
 
 /*

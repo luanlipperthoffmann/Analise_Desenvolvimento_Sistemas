@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\bin\Debug\net8.0\Desafio-LPOO.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\refint\Desafio-LPOO.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\Desafio-LPOO.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Desafio-LPOO\obj\Debug\net8.0\ref\Desafio-LPOO.dll
