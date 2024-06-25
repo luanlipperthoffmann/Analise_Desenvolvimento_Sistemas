@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\bin\Debug\net8.0\Arrays_listas.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\bin\Debug\net8.0\Arrays_listas.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\bin\Debug\net8.0\Arrays_listas.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\bin\Debug\net8.0\Arrays_listas.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\bin\Debug\net8.0\Arrays_listas.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\refint\Arrays_listas.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\Arrays_listas.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\Arrays_listas\obj\Debug\net8.0\ref\Arrays_listas.dll

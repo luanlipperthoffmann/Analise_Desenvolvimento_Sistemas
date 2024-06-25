@@ -1,0 +1,15 @@
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\bin\Debug\net8.0\desafioVeiculos.exe
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\bin\Debug\net8.0\desafioVeiculos.deps.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\bin\Debug\net8.0\desafioVeiculos.runtimeconfig.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\bin\Debug\net8.0\desafioVeiculos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\bin\Debug\net8.0\desafioVeiculos.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.AssemblyInfoInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.AssemblyInfo.cs
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.sourcelink.json
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\refint\desafioVeiculos.dll
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.pdb
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\desafioVeiculos.genruntimeconfig.cache
+C:\Users\luanl\Git\Analise_Desenvolvimento_Sistemas\Laboratório_Programação\desafioVeiculos\obj\Debug\net8.0\ref\desafioVeiculos.dll

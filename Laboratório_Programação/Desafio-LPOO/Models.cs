@@ -10,6 +10,12 @@ public class Autor
         Nacionalidade = "Indeterminado";
     }
 
+    public Autor(string Nome, string Nacionalidade)
+    {
+        this.Nome = Nome;
+        this.Nacionalidade = Nacionalidade;
+    }
+
     public void MostrarInfo()
     {
         System.Console.WriteLine($"\nAUTOR: \nNome: {Nome}, Nacionalidade: {Nacionalidade}");
@@ -18,17 +24,17 @@ public class Autor
 
 public class Livro
 {
-    public string? Titulo;
-    public string? Autor;
-    public double Preco;
+    string? Titulo;
+    Autor Autor;
+    double Preco;
 
-    public Livro(string Titulo, string Autor)
+    public Livro(string Titulo, Autor Autor)
     {
         this.Titulo = Titulo;
         this.Autor = Autor;
     }
 
-    public Livro(string Titulo, string Autor, double Preco){
+    public Livro(string Titulo, Autor Autor, double Preco){
         this.Titulo = Titulo;
         this.Autor = Autor;
         this.Preco = Preco;

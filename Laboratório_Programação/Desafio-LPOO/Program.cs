@@ -25,10 +25,10 @@ Demonstrar o polimorfismo utilizando o método AplicarDesconto na classe Livro.
 Abstração:
 Utilize a abstração ao criar classes Livro e Autor, escondendo os detalhes internos e expondo apenas as funcionalidades essenciais.
 */
-Autor autor = new Autor();
+Autor autor = new Autor("J.R.R. Tolkien", "Britânico");
 autor.MostrarInfo();
 
-Livro livro = new Livro("Senhor dos Anéis", "J.R.R. Tolkien", 150);
+Livro livro = new Livro("Senhor dos Anéis",autor , 150);
 livro.MostrarInfo();
 livro.AplicarDesconto(15.2);
 livro.AplicarDesconto(10);
