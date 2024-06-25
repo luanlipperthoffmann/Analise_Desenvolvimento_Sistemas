@@ -1,12 +1,12 @@
-﻿Carro carro = new Carro();
+﻿List<Veiculo> Veiculos = new List<Veiculo>();
 
+Carro carro = new Carro();
 Moto moto = new Moto();
 
-List<Veiculo> Veiculo = new List<Veiculo>();
-Veiculo.Add(carro);
-Veiculo.Add(moto);
+Veiculos.Add(carro);
+Veiculos.Add(moto);
 
-foreach (var veiculo in Veiculo)
+foreach (var veiculo in Veiculos)
 {
     veiculo.Acelerar();
     System.Console.WriteLine($"A velocidade do meu {veiculo} é de: {veiculo.ExibirVelocidade()} km");
